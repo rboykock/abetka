@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">abetka</string>
+    <string name="bukva_a">Аа</string>
+    <string name="bukva_b">Бб</string>
+    <string name="bukva_ve">Вв</string>
+    <string name="bukva_g">Гг</string>
+    <string name="bukva_ge">Ґґ</string>
+    <string name="bukva_d">Дд</string>
+    <string name="bukva_e">Ее</string>
+    <string name="bukva_ee">Єє</string>
+    <string name="bukva_j">Жж</string>
+    <string name="bukva_z">Зз</string>
+    <string name="bukva_u">Ии</string>
+    <string name="bukva_i">Іі</string>
+    <string name="bukva_ii">Її</string>
+    <string name="bukva_uu">Йй</string>
+    <string name="bukva_k">Кк</string>
+    <string name="bukva_l">Лл</string>
+    <string name="bukva_m">Мм</string>
+    <string name="bukva_n">Нн</string>
+    <string name="bukva_o">Оо</string>
+    <string name="bukva_p">Пп</string>
+    <string name="bukva_r">Рр</string>
+    <string name="bukva_s">Сс</string>
+    <string name="bukva_t">Тт</string>
+    <string name="bukva_y">Уу</string>
+    <string name="bukva_f">Фф</string>
+    <string name="bukva_h">Хх</string>
+    <string name="bukva_c">Цц</string>
+    <string name="bukva_ch">Чч</string>
+    <string name="bukva_sh">Шш</string>
+    <string name="bukva_shch">Щщ</string>
+    <string name="bukva_m_znak">Ьь</string>
+    <string name="bukva_ju">Юю</string>
+    <string name="bukva_ja">Яя</string>
+</resources>
